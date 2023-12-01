@@ -1,6 +1,7 @@
 # Machine Learning Specialization Coursera
 
-https://aman.ai/coursera-ml/
+Notes: https://aman.ai/coursera-ml/
+Colab: https://colab.research.google.com/
 
 
 ![](/resources/title-head.png)
